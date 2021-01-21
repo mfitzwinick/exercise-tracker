@@ -29,6 +29,8 @@ This was created using the following:
 
 ### Visual Presentation
 
+![ExerciseTracker](https://user-images.githubusercontent.com/72819785/105259108-02ec3080-5b40-11eb-91f8-05179a30b3e9.jpeg)
+
 ### Links
 
 ### Acknowledgements
