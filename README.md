@@ -30,7 +30,8 @@ This was created using the following:
 ### Visual Presentation
 
 ![ExerciseTracker](https://user-images.githubusercontent.com/72819785/105259108-02ec3080-5b40-11eb-91f8-05179a30b3e9.jpeg)
-![ExerciseTracker]("https://user-images.githubusercontent.com/72819785/105929578-b8195f80-5ffc-11eb-9e12-e87b8c653ae2.png")
+<img width="1471" alt="wkoutdash" src="https://user-images.githubusercontent.com/72819785/105929578-b8195f80-5ffc-11eb-9e12-e87b8c653ae2.png">
+
 
 ### Links
 
